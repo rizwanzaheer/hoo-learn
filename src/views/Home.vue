@@ -1,9 +1,11 @@
 <script setup>
-import ButtonRepo from '@/components/ButtonRepo.vue'
+import ButtonRepo from '@/components/ButtonRepo.vue';
+import Header from '@/components/Header.vue';
 </script>
 
 <template>
   <div class="bg-gray-50">
+     <Header />
     <div
       class="mx-auto max-w-screen-xl px-4 py-12 sm:px-6 lg:flex lg:items-center lg:justify-between lg:py-16 lg:px-8"
     >
