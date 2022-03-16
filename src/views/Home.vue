@@ -14,9 +14,7 @@ import Header from '@/components/Header.vue';
       >
         Ready to dive in?
         <br />
-        <span class="text-indigo-600">
-          Hoo Learn with Vite + Vue 3 + Tailwind CSS
-        </span>
+        <span class="text-indigo-600"> Hoo Learn with Vite + Vue 3 + Tailwind CSS </span>
       </h2>
       <div class="mt-8 flex lg:mt-0 lg:flex-shrink-0">
         <div class="inline-flex rounded-md shadow">

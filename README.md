@@ -1,6 +1,6 @@
-# ⚡ Vite + Vue 3 + Tailwind CSS ✔
+# ⚡ Hoo Learn with Vite + Vue 3 + Tailwind CSS ✔
 
-![Vite, Vue, Tailwind CSS]
+![Vite, Vue, Ant Design, Tailwind CSS]
 
 Tech Stack:
 
