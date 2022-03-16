@@ -27,10 +27,10 @@ First-party plugins needed for Tailwind UI:
 
 
 ```sh
-npm i
-npm run dev
-npm run build
-npm run serve
+npm i or yarn
+npm run dev or yarn dev
+npm run build or yarn build
+npm run serve or yarn serve
 ```
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/rizwanzaheer/hoo-learn)
