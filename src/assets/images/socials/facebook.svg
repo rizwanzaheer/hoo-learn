@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Fill 1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="主页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页-新" transform="translate(-1580.000000, -3164.000000)" fill="#B7C3D0">
+            <g id="底部" transform="translate(0.000000, 3055.000000)">
+                <g id="底部1">
+                    <g id="6" transform="translate(1450.000000, 30.000000)">
+                        <g id="3" transform="translate(0.000000, 34.000000)">
+                            <g id="1" transform="translate(130.000000, 45.000000)">
+                                <path d="M17.5,35 C7.851,35 0,27.149 0,17.5 C0,7.851 7.851,0 17.5,0 C27.149,0 35,7.851 35,17.5 C35,27.149 27.149,35 17.5,35" id="Fill-1" opacity="0.100000001"></path>
+                                <path d="M18.8564,27.1279 L18.8564,18.3449 L21.8044,18.3449 L22.2464,14.9209 L18.8564,14.9209 L18.8564,12.7349 C18.8564,11.7439 19.1314,11.0689 20.5524,11.0689 L22.3654,11.0679 L22.3654,8.0069 C22.0514,7.9649 20.9764,7.8719 19.7244,7.8719 C17.1114,7.8719 15.3214,9.4669 15.3214,12.3969 L15.3214,14.9209 L12.3654,14.9209 L12.3654,18.3449 L15.3214,18.3449 L15.3214,27.1279 L18.8564,27.1279 Z" id="Fill-3"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
