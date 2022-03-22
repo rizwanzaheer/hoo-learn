@@ -9,7 +9,7 @@ import {
   FOOTER_MENU_ITEMS_NOTICE,
   FOOTER_MENU_ITEMS_SUPPORT,
   FOOTER_MENU_ITEMS_HELP,
-} from "@/resources/constants/footerMenuItems";
+} from "@/constants/footerMenuItems";
 import LanguageCurrencySelect from "../LanguageCurrencySelect.vue";
 </script>
 
