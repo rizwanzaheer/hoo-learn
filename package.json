@@ -7,7 +7,7 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "ant-design-vue": "^2.2.8",
+    "ant-design-vue": "^3.2.1",
     "moment": "^2.29.1",
     "sass": "^1.49.9",
     "vite-plugin-components": "^0.13.3",
